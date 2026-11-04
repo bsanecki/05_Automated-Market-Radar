@@ -1,17 +1,5 @@
 {
   "seen_ids": [
-    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/mocne-dane-gospodarcze-z-polski-co-czeka-nas-w-bliskiej-i-dalszej-przyszlosci",
-    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/honda-i-nissan-znalazly-sposob-na-tanszy-rozwoj-wspolna-technologia-nizsze-koszty",
-    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/ceny-paliw-wzrosna-mocniej-niz-pierwsze-szacunki-koniec-cpn-i-eskalacja-na-bliskim-wschodzie",
-    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/amd-i-cisco-wchodza-do-gry-o-saudyjski-rynek-ai",
-    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/komentarz-gieldowy-rpp-poczeka-polska-gospodarka-daje-jej-czas",
-    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/polska-spolka-tygodnia-asbis-rekordowe-wyniki-to-dopiero-poczatek",
-    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/polska-spolka-miesiaca-asbis-rekordowe-wyniki-to-dopiero-poczatek",
-    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/us100-przedluza-spadki-i-traci-1",
-    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/przeglad-surowcowy-pszenica-kakao-zloto-ropa-01-09-2026",
-    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/czarne-chmury-nad-take-two-interactive-tuz-przed-premiera-gta-6",
-    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/us-open-wall-street-rozpoczyna-wrzesien-pod-presja-ropa-ponownie-w-centrum-uwagi",
-    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/poranny-webinar-blizej-rynkow-02-09-2026-live",
     "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/zloto-pod-silna-presja-inflacji-czy-fed-faktycznie-jest-gotowy-na-podwyzke",
     "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/komentarz-gieldowy-czy-era-pasywnego-inwestowania-dobiega-konca-rynek-obligacji-zaczyna-wystawiac-rachunek-gieldzie",
     "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/co-dalej-z-ropa-eia-wskazuje-na-mocny-spadek-zapasow-w-usa-decyzja-opec-coraz-blizej",
@@ -499,6 +487,18 @@
     "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/demokraci-kontratakuja-i-przejmuja-caly-kongres-blizej-rynkow-04-11-2026",
     "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/pilne-demokraci-przejmuja-obie-izby-kongresu-jak-reaguja-rynki",
     "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/super-micro-odpalilo-rakiete-przychody-wzrosly-niemal-czterokrotnie",
-    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/puls-gpw-zielona-fala-w-warszawie-po-wyborach-w-usa-teraz-uwaga-na-decyzje-rpp"
+    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/puls-gpw-zielona-fala-w-warszawie-po-wyborach-w-usa-teraz-uwaga-na-decyzje-rpp",
+    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/xtb-x-parkiet-co-dalej-z-wall-street-zlotem-i-zlotym",
+    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/hiszpania-wstaje-z-kolan-nemezis-trumpa-zawraca-po-wyborach-midterm",
+    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/swietny-raport-katastrofa-na-gieldzie-dlaczego-datadog-traca-po-wynikach",
+    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/pilne-stopy-procentowe-w-polsce-bez-zmian-1",
+    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/mcdonald-s-i-kraft-heinz-zyskuja-wyzsze-koszyki-zakupowe-i-ciecie-dlugu-wspieraja-nastroje-po-wynikach-za-iii-kwartal",
+    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/rpp-nie-zaskakuje-zloty-rosnie-w-sile-komentarz-po-decyzji-rpp",
+    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/us-open-blekitna-fala-w-kongresie-wywoluje-potezny-wzrost-na-wall-street-dow-zyskuje-ponad-1000-punktow",
+    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/komentarz-gieldowy-wall-street-loves-gridlock-demokraci-wygrywaja-a-gielda-odetchnela",
+    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/pilne-zapasy-ropy-w-usa-spadaja-mniej-niz-oczekiwano-ale-cena-spada-przez-wybory-i-nadzieje-na-porozumienie-usa-iran",
+    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/porazka-trumpa-to-koniec-drogiej-ropy-nagranie",
+    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/ropa-traci-najmocniej-od-kwietnia-9",
+    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/podsumowanie-dnia-blekitna-fala-w-kongresie-wywoluje-euforie-na-rynkach-ropa-ostro-nurkuje"
   ]
 }
