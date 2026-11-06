@@ -31,9 +31,9 @@
     "https://www.bankier.pl/wiadomosc/Wyborczy-rollercoaster-na-kryptowalutach-Branza-poniosla-polityczna-kleske-ale-bitcoin-odrabia-straty-9223271.html"
   ],
   "price_alert": {
-    "direction": "down",
-    "last_change_pct": -5.229063251795207,
-    "last_price": 76118,
-    "updated_at": "2026-11-06T11:46:45.201685Z"
+    "direction": null,
+    "last_change_pct": -0.34118094930200443,
+    "last_price": 75773,
+    "updated_at": "2026-11-06T18:51:15.332381Z"
   }
 }
