@@ -30,12 +30,13 @@
     "https://www.bankier.pl/wiadomosc/Widmo-kryzysu-w-Europie-i-poszukiwanie-okazji-w-USA-Co-mowi-Wall-Street-9217985.html",
     "https://www.bankier.pl/wiadomosc/Wyborczy-rollercoaster-na-kryptowalutach-Branza-poniosla-polityczna-kleske-ale-bitcoin-odrabia-straty-9223271.html",
     "https://www.bankier.pl/wiadomosc/Bitcoin-za-milion-dolarow-koniec-starych-cykli-i-polska-katastrofa-Eksperci-o-rynku-krypto-9225023.html",
-    "https://www.bankier.pl/wiadomosc/Binance-zamyka-konta-Polakow-i-wprowadza-oplate-za-przetrzymywanie-srodkow-9225908.html"
+    "https://www.bankier.pl/wiadomosc/Binance-zamyka-konta-Polakow-i-wprowadza-oplate-za-przetrzymywanie-srodkow-9225908.html",
+    "https://www.bankier.pl/wiadomosc/Bitcoin-najnizej-od-sierpnia-Kurs-spada-ponizej-70-tys-dolarow-9228417.html"
   ],
   "price_alert": {
     "direction": "down",
-    "last_change_pct": -6.892646625971133,
-    "last_price": 68603,
-    "updated_at": "2026-11-13T04:57:52.398884Z"
+    "last_change_pct": -5.1661497351197685,
+    "last_price": 69150,
+    "updated_at": "2026-11-13T12:55:00.957109Z"
   }
 }
