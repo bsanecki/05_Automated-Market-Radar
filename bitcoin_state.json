@@ -34,9 +34,9 @@
     "https://www.bankier.pl/wiadomosc/Bitcoin-najnizej-od-sierpnia-Kurs-spada-ponizej-70-tys-dolarow-9228417.html"
   ],
   "price_alert": {
-    "direction": "down",
-    "last_change_pct": -5.1661497351197685,
-    "last_price": 69150,
-    "updated_at": "2026-11-13T12:55:00.957109Z"
+    "direction": null,
+    "last_change_pct": -3.4106508443645156,
+    "last_price": 69025,
+    "updated_at": "2026-11-13T20:18:38.921053Z"
   }
 }
