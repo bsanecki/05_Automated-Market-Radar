@@ -33,9 +33,9 @@
     "https://www.bankier.pl/wiadomosc/Binance-zamyka-konta-Polakow-i-wprowadza-oplate-za-przetrzymywanie-srodkow-9225908.html"
   ],
   "price_alert": {
-    "direction": null,
-    "last_change_pct": -2.9987990499547204,
-    "last_price": 71441,
-    "updated_at": "2026-11-12T23:10:44.528332Z"
+    "direction": "down",
+    "last_change_pct": -6.892646625971133,
+    "last_price": 68603,
+    "updated_at": "2026-11-13T04:57:52.398884Z"
   }
 }
