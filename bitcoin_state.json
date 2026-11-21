@@ -35,9 +35,9 @@
     "https://www.bankier.pl/wiadomosc/Bitcoin-traci-grunt-pod-nogami-Rekordowe-zaklady-na-spadek-ponizej-60-tys-dolarow-9229271.html"
   ],
   "price_alert": {
-    "direction": "down",
-    "last_change_pct": -6.1723453467619604,
-    "last_price": 58799,
-    "updated_at": "2026-11-20T18:15:57.665166Z"
+    "direction": null,
+    "last_change_pct": -4.879621769840638,
+    "last_price": 58990,
+    "updated_at": "2026-11-21T00:35:02.569163Z"
   }
 }
