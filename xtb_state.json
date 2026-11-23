@@ -1,16 +1,5 @@
 {
   "seen_ids": [
-    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/krach-na-tureckiej-gieldzie-problemy-z-wyplatami-srodkow-spycha-glowny-indeks-4-nizej",
-    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/saudyjska-awaria-a-polski-rynek-paliw-szok-cenowy-a-nie-kryzys-dostaw",
-    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/czy-meta-ma-nowy-problem-europa-moze-uderzyc-w-jej-model-biznesowy",
-    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/pilne-fed-podniosl-stopy-w-usa",
-    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/na-zywo-konferencja-przewodniczacego-fed-kevina-warsha",
-    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/eurusd-ponizej-1-15-po-jastrzebim-fed",
-    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/jastrzebi-cios-fedu-podwyzka-i-determinacja-warsha-w-walce-z-inflacja-usdpln-powyzej-3-80",
-    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/komentarz-walutowy-jastrzebi-cios-fedu-nokautuje-zlotego-przed-nami-boe-i-boj",
-    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/fed-podniosl-stopy-a-rynki-dostaly-chwilowy-jastrzebi-cios-co-mowi-historia-o-tym-co-dalej-z-akcjami",
-    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/huawei-chce-zastapic-nvidie-w-chinach-technologiczna-przepasc-wciaz-pozostaje-ogromna",
-    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/pilne-bank-anglii-utrzymuje-stopy-zgodnie-z-oczekiwaniami",
     "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/applied-materials-inwestuje-5-mld-dolarow-w-indiach",
     "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/nie-wszystkie-problemy-rewolucji-ai-czesc-1-szanse-i-ryzyka",
     "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/nie-wszystkie-problemy-rewolucji-ai-czesc-2-rynek-nad-przepascia",
@@ -499,6 +488,17 @@
     "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/przeglad-rynkowy-anthropic-nie-uspokoil-rynku-gieldy-traca-siodma-sesje-z-rzedu-20-11-2026",
     "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/komentarz-gieldowy-czarny-piatek-na-wigu-czy-gpw-stac-na-kolejny-rok-jak-ten",
     "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/nvidia-bez-jensena-rynki-na-lasce-fed-u-i-kryzys-ai",
-    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/spolki-na-gpw-na-ktore-warto-zwrocic-uwage-w-dniach-23-27-listopada"
+    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/spolki-na-gpw-na-ktore-warto-zwrocic-uwage-w-dniach-23-27-listopada",
+    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/rynkom-brakuje-powietrza-live-7-50",
+    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/poranna-odprawa-techniczne-odbicie-po-krachu-ai-i-interwencje-w-azji",
+    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/wykres-dnia-vix-odwrocona-krzywa-i-odczyt-blisko-30-szczyt-strachu-czy-dopiero-poczatek",
+    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/komentarz-walutowy-zloty-pod-presja-co-naprawde-stoi-za-oslabieniem-polskiej-waluty-23-11-2026",
+    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/pilne-jensen-huang-wraca-na-szczyt-nvidii-zarzad-zmienil-decyzje-po-zaledwie-11-dniach",
+    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/pilne-jensen-huang-wraca-na-stanowisko-ceo-nvidia-akcje-skacza-o-27-w-gore",
+    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/pilne-obrot-na-indeksie-nasdaq-wstrzymany-po-wzroscie-o-7",
+    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/us-open-koniec-telenoweli-w-nvidii-wall-street-przezywa-jedna-z-najmocniejszych-sesji-od-lat",
+    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/komentarz-gieldowy-za-duzy-by-upasc-zbyt-wazny-by-odejsc-jensen-huang-wraca-na-wall-street",
+    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/spotkanie-live-pomysly-inwestycyjne-tygodnia-grzegorz-moskwa-23-11-2026",
+    "https://www.xtb.com/pl/analizy-rynkowe/wiadomosci-rynkowe/podsumowanie-dnia-powrot-ceo-nvidii-przywraca-nadzieje-na-utrzymanie-hossy"
   ]
 }
