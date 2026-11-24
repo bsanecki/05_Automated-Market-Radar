@@ -36,9 +36,9 @@
     "https://www.bankier.pl/wiadomosc/Miliony-w-bitcoinach-i-18-tys-zl-na-koncie-Zagladamy-do-skarbca-krypto-spolki-z-NewConnect-9232312.html"
   ],
   "price_alert": {
-    "direction": null,
-    "last_change_pct": -1.6369566884948856,
-    "last_price": 60207,
-    "updated_at": "2026-11-24T03:46:22.415026Z"
+    "direction": "down",
+    "last_change_pct": -6.033874902219323,
+    "last_price": 60403,
+    "updated_at": "2026-11-24T14:31:12.092568Z"
   }
 }
